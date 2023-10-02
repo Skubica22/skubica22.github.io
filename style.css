@@ -1,0 +1,30 @@
+body {
+  background-color: palegreen;
+  border: dotted;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.contactsection {background-color: white;
+                padding: 20px;
+
+}
+
+h1 {font-family: fantasy;
+}
+
+#contactsection {background-color: white;
+                padding: 20px;
+
+}
+#summarysection {background-color: white;
+                padding: 20px;
+}
+#skillssection {background-color: white;
+                padding: 20px;
+}
+#Achievementssection {background-color: white;
+                      padding: 20px;
+}
+{
+  list-style-type: square;
+}
