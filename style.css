@@ -1,10 +1,34 @@
 body {
   background-color: palegreen;
   border: dotted;
+  border-color: seagreen;
+  border-width: 10px;
   font-family: sans-serif;
   padding: 20px;
 }
-.contactsection {background-color: white;
+a, a:hover { color: darkgreen; }
+
+h1, h4 {color: white;}
+
+
+
+
+
+
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    background-color: lightgreen;
+	
+}
+
+.nav-item:hover {
+	background-color: seagreen;
+}
+
+.gray {
+	background-color: white;
+}
+
+.contactsection {background-color: seagreen;
                 padding: 20px;
 
 }
@@ -12,19 +36,17 @@ body {
 h1 {font-family: fantasy;
 }
 
-#contactsection {background-color: white;
+#contactsection {background-color: seagreen;
                 padding: 20px;
 
 }
-#summarysection {background-color: white;
+#summarysection {background-color: seagreen;
                 padding: 20px;
 }
-#skillssection {background-color: white;
+#skillssection {background-color: seagreen;
                 padding: 20px;
 }
-#Achievementssection {background-color: white;
+#Achievementssection {background-color: seagreen;
                       padding: 20px;
 }
-{
-  list-style-type: square;
-}
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
